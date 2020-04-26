@@ -1,0 +1,4 @@
+ellek  IN  NS  ns31.de.dns.opennic.glue
+ellek  IN  NS  ns1.ec.dns.opennic.glue
+ellek  IN  NS  ns13.opennic.glue
+ellek  IN  NS  ns11.opennic.glue
